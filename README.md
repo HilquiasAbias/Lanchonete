@@ -9,3 +9,11 @@ Funcionalidades esperadas:
 - Controle de funcionários
 - Caixa de fluxo
 - Relatório financeiro
+
+### Tecnologias escolhidas:
+
+- Node
+- MySql
+- Handlebars
+- Nodemon
+- Sequelize
